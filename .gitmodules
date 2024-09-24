@@ -1,0 +1,4 @@
+[submodule "mypage/public"]
+	path = mypage/public
+	url = https://github.com/DmitrijShumakov/DmitrijShumakov.github.io.git
+	branch = main

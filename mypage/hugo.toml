@@ -1,0 +1,4 @@
+baseURL = 'https://dmitrij.shumakov.github.io/'
+languageCode = 'en-us'
+title = 'Dmitrij Shumakov page'
+theme = 'hugo-PaperMod'
